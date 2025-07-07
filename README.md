@@ -23,3 +23,7 @@ cd Python-Tic-Tac-Toe
 
 # Run the game (requires Python 3.x)
 python ttt.py
+```
+## Credits
+
+Developed by Valentin Mihov.
